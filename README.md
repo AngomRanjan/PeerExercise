@@ -14,7 +14,7 @@
 ## Live Demo
 [source code](https://github.com/AngomRanjan/Task-Organiser.git)
 
-[Live Demo Link](https://angomranjan.github.io/Task-Organiser/dist/index.html)
+[Live Demo Link](https://angomranjan.github.io/PeerExercise/))
 
 ## Authors
 
